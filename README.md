@@ -24,7 +24,7 @@ This project uses an AI agent to understand chat instructions and perform email-
 ## Workflow Architecture
 ## Workflow Screenshot
 
-![AI Email Automation Workflow](image.png)
+![AI Email Automation Workflow](workflow.png)
 
 1. **Chat Trigger:** Receives a message from the user.
 2. **AI Agent:** Processes the request using the configured system instructions.
@@ -50,6 +50,7 @@ This project uses an AI agent to understand chat instructions and perform email-
 ## Testing
 
 Test the workflow with sample chat instructions and verify the results in Gmail. Use a test recipient and confirm the email content before relying on the automation.
+![Result](output.png)
 
 ## Future Improvements
 
