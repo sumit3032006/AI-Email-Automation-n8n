@@ -22,6 +22,9 @@ This project uses an AI agent to understand chat instructions and perform email-
 - Simple Memory — conversational context
 
 ## Workflow Architecture
+## Workflow Screenshot
+
+![AI Email Automation Workflow](image.png)
 
 1. **Chat Trigger:** Receives a message from the user.
 2. **AI Agent:** Processes the request using the configured system instructions.
@@ -59,3 +62,5 @@ Test the workflow with sample chat instructions and verify the results in Gmail.
 ## Author
 
 Sumit Jadhav
+
+
